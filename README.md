@@ -1,3 +1,4 @@
+![SeretAje](seretaje-preview.png)
 # SeretAje
 
 Tahan **Shift** sambil menyeret file dari File Explorer atau Desktop. Cincin pilihan muncul di samping kursor, lepas file di pilihan yang diinginkan. File asal tidak pernah diubah atau dipindah, hasilnya disimpan di folder yang sama dengan nama baru (misalnya `foto - dipotong.jpg`).
